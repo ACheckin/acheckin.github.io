@@ -56,11 +56,11 @@
       "type": "image/png"
     }
   ],
-  "name": "Mattermost",
-  "short_name": "Mattermost",
+  "name": "ACheckin",
+  "short_name": "ACheckin",
   "orientation": "any",
   "display": "standalone",
   "start_url": "..",
-  "description": "Mattermost is an open source, self-hosted Slack-alternative",
+  "description": "ACheckin is an open source, self-hosted Slack-alternative",
   "background_color": "#ffffff"
 }
